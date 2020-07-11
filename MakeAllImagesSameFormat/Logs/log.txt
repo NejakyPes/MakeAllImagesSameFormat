@@ -1,0 +1,78 @@
+[11.07.2020 10:10:04] Move | 20200704_122143.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122143.jpg
+[11.07.2020 10:11:53] Move | 20200704_122143.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122143.jpg
+[11.07.2020 10:13:21] Move | 20200704_122143.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122143.jpg
+[11.07.2020 10:13:26] Move | 20200704_122247.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122247.jpg
+[11.07.2020 10:13:26] Move | 20200704_122532.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122532.jpg
+[11.07.2020 10:13:26] Move | 20200704_122539.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122539.jpg
+[11.07.2020 10:13:26] Move | 20200704_122553.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122553.jpg
+[11.07.2020 10:13:26] Move | 20200704_122836.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122836.jpg
+[11.07.2020 10:13:26] Move | 20200704_122844.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122844.jpg
+[11.07.2020 10:13:26] Move | 20200704_122846.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122846.jpg
+[11.07.2020 10:13:26] Move | 20200704_123636.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_123636.jpg
+[11.07.2020 10:13:26] Move | 20200704_131809.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_131809.jpg
+[11.07.2020 10:13:26] Move | 20200704_135829.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_135829.jpg
+[11.07.2020 10:13:26] Move | 20200704_135939.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_135939.jpg
+[11.07.2020 10:13:26] Move | 20200704_135951.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_135951.jpg
+[11.07.2020 10:13:26] Move | 20200704_140022.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_140022.jpg
+[11.07.2020 10:13:26] Move | 20200709_154642.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_154642.jpg
+[11.07.2020 10:13:26] Move | 20200709_154647.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_154647.jpg
+[11.07.2020 10:13:26] Move | 20200709_154654.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_154654.jpg
+[11.07.2020 10:13:26] Move | 20200709_154658.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_154658.jpg
+[11.07.2020 10:13:26] Move | 20200709_154726.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_154726.jpg
+[11.07.2020 10:13:26] Move | 20200709_154746.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_154746.jpg
+[11.07.2020 10:13:26] Move | 20200709_161101.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_161101.jpg
+[11.07.2020 10:13:26] Move | 20200709_163638.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_163638.jpg
+[11.07.2020 10:13:26] Move | 20200709_165109.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_165109.jpg
+[11.07.2020 10:13:26] Move | 20200709_165111.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_165111.jpg
+[11.07.2020 10:13:26] Move | 20200709_165112.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_165112.jpg
+[11.07.2020 10:13:26] Move | 20200709_165113.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_165113.jpg
+[11.07.2020 10:13:26] Move | 20200709_165126.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_165126.jpg
+[11.07.2020 10:13:26] Move | 20200709_165146.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_165146.jpg
+[11.07.2020 10:13:26] Move | 20200709_165151.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_165151.jpg
+[11.07.2020 10:13:26] Move | 20200709_165425.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_165425.jpg
+[11.07.2020 10:13:26] Move | 20200709_170045.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_170045.jpg
+[11.07.2020 10:13:26] Move | 20200709_172126.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_172126.jpg
+[11.07.2020 10:13:26] Move | 20200709_172129.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_172129.jpg
+[11.07.2020 10:13:26] Move | 20200709_172200.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_172200.jpg
+[11.07.2020 10:13:26] Move | 20200709_172317.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_172317.jpg
+[11.07.2020 10:13:26] Move | 20200709_172551.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_172551.jpg
+[11.07.2020 10:13:26] Move | 20200709_172609.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_172609.jpg
+[11.07.2020 10:13:26] Move | 20200709_172622.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_172622.jpg
+[11.07.2020 10:13:26] Move | 20200709_172659.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_172659.jpg
+[11.07.2020 10:13:26] Move | 20200709_183905.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_183905.jpg
+[11.07.2020 10:13:26] Move | 20200709_183906.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_183906.jpg
+[11.07.2020 10:13:26] Move | 20200709_183910.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_183910.jpg
+[11.07.2020 10:13:26] Move | 20200709_183927.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_183927.jpg
+[11.07.2020 10:13:26] Move | 20200709_184849.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_184849.jpg
+[11.07.2020 10:13:26] Move | 20200709_184906.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_184906.jpg
+[11.07.2020 10:13:26] Move | 20200709_185318.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_185318.jpg
+[11.07.2020 10:13:26] Move | 20200709_185323.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_185323.jpg
+[11.07.2020 10:13:26] Move | 20200709_185335.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_185335.jpg
+[11.07.2020 10:13:26] Move | 20200709_185340.jpg => C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200709\20200709_185340.jpg
+[11.07.2020 10:23:45] Delete[Duplicate] | 20200704_122143.jpg
+[11.07.2020 10:23:51] Delete[Duplicate] | 20200704_122247.jpg
+[11.07.2020 10:23:54] Delete[Duplicate] | 20200704_122532.jpg
+[11.07.2020 10:23:56] Delete[Duplicate] | 20200704_122539.jpg
+[11.07.2020 10:23:57] Delete[Duplicate] | 20200704_122553.jpg
+[11.07.2020 10:24:00] Delete[Duplicate] | 20200704_122836.jpg
+[11.07.2020 10:24:07] Delete[Duplicate] | 20200704_122844.jpg
+[11.07.2020 10:24:07] Delete[Duplicate] | 20200704_122846.jpg
+[11.07.2020 10:24:07] Delete[Duplicate] | 20200704_123636.jpg
+[11.07.2020 10:24:07] Delete[Duplicate] | 20200704_131809.jpg
+[11.07.2020 10:24:07] Delete[Duplicate] | 20200704_135829.jpg
+[11.07.2020 10:24:07] Delete[Duplicate] | 20200704_135939.jpg
+[11.07.2020 10:24:07] Delete[Duplicate] | 20200704_135951.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200704_140022.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_154642.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_154647.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_154654.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_154658.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_154726.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_154746.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_161101.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_163638.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_165109.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_165111.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_165112.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_165113.jpg
+[11.07.2020 10:24:08] Delete[Duplicate] | 20200709_165126.jpg
