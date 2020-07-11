@@ -62,7 +62,7 @@ namespace MakeAllImagesSameFormat
 
         private static void Log(string text)
         {
-            using (StreamWriter sw = File.AppendText(Variables.LogLocation))
+            using (StreamWriter sw = File.AppendText(Variables.LogLocation+"Log.txt"))
             {
                 sw.WriteLine($"[{DateTime.Now}] {text}");
             }

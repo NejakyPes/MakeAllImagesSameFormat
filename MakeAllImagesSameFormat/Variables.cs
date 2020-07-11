@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,7 +17,9 @@ namespace MakeAllImagesSameFormat
         static Variables()
         {
             FileLocation = ConfigurationManager.AppSettings.Get("fileLocation");
+
             LogLocation = ConfigurationManager.AppSettings.Get("logLocation");
+            Directory.CreateDirectory(LogLocation);
         }
 
     }
