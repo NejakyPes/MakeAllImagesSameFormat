@@ -76,3 +76,9 @@
 [11.07.2020 10:24:08] Delete[Duplicate] | 20200709_165112.jpg
 [11.07.2020 10:24:08] Delete[Duplicate] | 20200709_165113.jpg
 [11.07.2020 10:24:08] Delete[Duplicate] | 20200709_165126.jpg
+[11.07.2020 11:43:04] Application started
+[11.07.2020 11:43:04] None file found
+[11.07.2020 11:43:04] Application ended
+[11.07.2020 11:43:11] Application started
+[11.07.2020 11:43:11] None file found
+[11.07.2020 11:43:11] Application ended
