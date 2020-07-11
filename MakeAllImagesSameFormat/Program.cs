@@ -38,7 +38,7 @@ namespace MakeAllImagesSameFormat
                             }
                             //Console.WriteLine($"{name} => {Variables.FileLocation}\\{match.Value}");
                             Log($"Move[{name}] | {Variables.FileLocation}\\{folder}\\{match.Value}");
-                            File.Move($"{Variables.FileLocation}\\{name}", $"{Variables.FileLocation}\\{folder}\\{match.Value}");
+                            File.Move($"{Variables.FileLocation}\\{name}", $"{folder}\\{match.Value}");
                         }
                         else
                             Delete("Regex.NotMatch", name);
@@ -58,7 +58,6 @@ namespace MakeAllImagesSameFormat
         {
             File.Delete($"{Variables.FileLocation}//{name}");
             Log($"Delete[{reason}] | {name}");
-
         }
 
         private static void Log(string text)

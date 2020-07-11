@@ -82,3 +82,62 @@
 [11.07.2020 11:43:11] Application started
 [11.07.2020 11:43:11] None file found
 [11.07.2020 11:43:11] Application ended
+[11.07.2020 11:48:14] Application started
+[11.07.2020 11:48:14] Founded 10 files to process
+[11.07.2020 11:48:14] Move[IMG_20200704_122146.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122146.jpg
+[11.07.2020 11:48:14] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:48:14] Move[IMG_20200704_122151.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122151.jpg
+[11.07.2020 11:48:14] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:48:14] Move[IMG_20200704_122240.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122240.jpg
+[11.07.2020 11:48:14] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:48:14] Move[IMG_20200704_122313.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122313.jpg
+[11.07.2020 11:48:14] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:48:14] Move[IMG_20200704_122654.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122654.jpg
+[11.07.2020 11:48:14] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:48:14] Move[IMG_20200704_122928.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122928.jpg
+[11.07.2020 11:48:14] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:48:14] Move[IMG_20200704_123645.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_123645.jpg
+[11.07.2020 11:48:14] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:48:14] Move[PANO_20200704_122105.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122105.jpg
+[11.07.2020 11:48:14] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:48:14] Move[PANO_20200704_122246.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122246.jpg
+[11.07.2020 11:48:14] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:48:14] Move[PANO_20200704_122703.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122703.jpg
+[11.07.2020 11:48:14] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:48:14] Application ended
+[11.07.2020 11:49:27] Application started
+[11.07.2020 11:49:27] Founded 10 files to process
+[11.07.2020 11:49:27] Move[IMG_20200704_122146.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122146.jpg
+[11.07.2020 11:49:27] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:49:27] Move[IMG_20200704_122151.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122151.jpg
+[11.07.2020 11:49:27] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:49:27] Move[IMG_20200704_122240.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122240.jpg
+[11.07.2020 11:49:27] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:49:27] Move[IMG_20200704_122313.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122313.jpg
+[11.07.2020 11:49:27] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:49:27] Move[IMG_20200704_122654.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122654.jpg
+[11.07.2020 11:49:27] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:49:27] Move[IMG_20200704_122928.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122928.jpg
+[11.07.2020 11:49:27] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:49:27] Move[IMG_20200704_123645.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_123645.jpg
+[11.07.2020 11:49:27] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:49:27] Move[PANO_20200704_122105.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122105.jpg
+[11.07.2020 11:49:27] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:49:27] Move[PANO_20200704_122246.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122246.jpg
+[11.07.2020 11:49:27] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:49:27] Move[PANO_20200704_122703.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122703.jpg
+[11.07.2020 11:49:27] Error | Uvedený formát cesty není podporován.
+[11.07.2020 11:49:27] Application ended
+[11.07.2020 11:49:54] Application started
+[11.07.2020 11:49:54] Founded 10 files to process
+[11.07.2020 11:49:54] Move[IMG_20200704_122146.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122146.jpg
+[11.07.2020 11:49:54] Move[IMG_20200704_122151.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122151.jpg
+[11.07.2020 11:49:54] Move[IMG_20200704_122240.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122240.jpg
+[11.07.2020 11:49:54] Move[IMG_20200704_122313.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122313.jpg
+[11.07.2020 11:49:54] Move[IMG_20200704_122654.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122654.jpg
+[11.07.2020 11:49:54] Move[IMG_20200704_122928.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122928.jpg
+[11.07.2020 11:49:54] Move[IMG_20200704_123645.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_123645.jpg
+[11.07.2020 11:49:54] Move[PANO_20200704_122105.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122105.jpg
+[11.07.2020 11:49:54] Move[PANO_20200704_122246.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122246.jpg
+[11.07.2020 11:49:54] Move[PANO_20200704_122703.jpg] | C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\C:\\Users\\kerno\\Disk Google\\RandomFolder\\Horalky\20200704\20200704_122703.jpg
+[11.07.2020 11:49:54] Application ended
