@@ -1,3 +1,0 @@
-[11.07.2020 15:53:38] Application started
-[11.07.2020 15:53:38] None file found
-[11.07.2020 15:53:38] Application ended
